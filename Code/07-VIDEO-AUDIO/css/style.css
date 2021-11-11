@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+    text-align:justify;
+    font-size: 18px;
+}
+.hmenu{
+    text-align:center;
+    margin-top:30px;
+}
+.hmenu a{
+    padding:0px 20px;
+}
+.timpic{float:right;margin:10px 5px 0 20px;}
+blockquote{
+    background:oldlace;
+    padding:20px 80px;
+    border-radius:250px 0 250px 0;
+    -webkit-border-radius:250px 0 250px 0;
+    -moz-border-radius:250px 0 250px 0;
+    -ms-border-radius:250px 0 250px 0;
+    -o-border-radius:250px 0 250px 0;
+    border-left:2px solid black;
+    border-right:2px solid black;
+}
+.wMap{
+    box-shadow:4px 4px 20px 4px #c0b7b7;
+}
+.contInfo{
+    float:left;
+    margin-right:80px;
+}
+iframe{
+    box-shadow:3px 3px 15px 3px #777777;
+}
+video{
+    float:left;
+    margin:0px 30px 20px 0px;
+}
+ul{
+    list-style-type:disc;
+    list-style-position: inside;
+}
